@@ -17,9 +17,9 @@ Codeigniter 3.1.11
 ## default login
 untuk login di sistem
 ### petugas perpustakaan
-username: putri<br>
+username: alan<br>
 password: 123456
 
 ### anggota perpustakaan
-username: umar<br>
+username: bambang<br>
 password: 123456
